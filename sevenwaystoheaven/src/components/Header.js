@@ -20,6 +20,10 @@ const Header = () => {
           <p>New People</p>
           <p>Jane</p>
         </div>
+        <div className="header-name">
+          <p>Written and Designed by</p>
+          <h1>Lin</h1>
+        </div>
       </div>
     </header>
   );
