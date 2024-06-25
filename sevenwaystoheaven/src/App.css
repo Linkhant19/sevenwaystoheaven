@@ -1,0 +1,9 @@
+/* I used vw here to make it adjust with window size */
+
+body {
+  margin: 1vw;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #333;
+  color: #fff;
+}
+
