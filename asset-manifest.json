@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sevenwaystoheaven/static/css/main.b570388f.css",
+    "main.js": "/sevenwaystoheaven/static/js/main.1b9e7fc7.js",
+    "static/js/453.5982f771.chunk.js": "/sevenwaystoheaven/static/js/453.5982f771.chunk.js",
+    "index.html": "/sevenwaystoheaven/index.html",
+    "main.b570388f.css.map": "/sevenwaystoheaven/static/css/main.b570388f.css.map",
+    "main.1b9e7fc7.js.map": "/sevenwaystoheaven/static/js/main.1b9e7fc7.js.map",
+    "453.5982f771.chunk.js.map": "/sevenwaystoheaven/static/js/453.5982f771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b570388f.css",
+    "static/js/main.1b9e7fc7.js"
+  ]
+}
